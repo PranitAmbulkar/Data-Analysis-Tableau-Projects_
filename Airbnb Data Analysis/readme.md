@@ -1,1 +1,1 @@
-
+This is the embedded link which will redirect to the tableau public for the project dashboard: https://public.tableau.com/views/AirBnBDataAnalysis_17113895631150/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
